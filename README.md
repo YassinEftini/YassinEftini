@@ -26,4 +26,4 @@
 ⭐️ From [YassinEftini](https://yassin-eftini.com)
 
 
-![Yassin's github stats](https://github-readme-stats.vercel.app/api?username=YassinEftini&show_icons=true&theme=dark)
+
