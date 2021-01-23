@@ -24,3 +24,4 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ⭐️ From [YassinEftini](https://gist.github.com/YassinEftini) 
+![Yassin's github stats](https://github-readme-stats.vercel.app/api?username=YassinEftini&show_icons=true&theme=dark)
