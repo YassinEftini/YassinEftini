@@ -23,5 +23,5 @@
 - Currently working on some of my cool side projects based on Python🐍 , Web Scraping and  Web Development .
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-⭐️ From [YassinEftini](https://gist.github.com/YassinEftini) 
+⭐️ From [YassinEftini](https://yassin-eftini.com) 
 ![Yassin's github stats](https://github-readme-stats.vercel.app/api?username=YassinEftini&show_icons=true&theme=dark)
