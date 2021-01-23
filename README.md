@@ -18,9 +18,9 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Yassin Eftini 👨‍💻 
-- An Data Science enthusiast.
+- Data Science enthusiast.
 - I'm studying  economic and Administrative Science . 
-- Currently working on some of my cool side projects based on Python🐍 , Web Scraping and  Web Development .
+- Currently learning  Python🐍 , Data Analytics and  Web Scraping also working on some side Projects to enhance my Skills .
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ⭐️ From [YassinEftini](https://yassin-eftini.com)
