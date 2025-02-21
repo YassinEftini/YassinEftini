@@ -17,7 +17,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Yassin  👨‍💻 
+### I'm Yassin  👨‍💻 
 
 -  I embrace the calm of an idle state to recharge and think creatively .
 
