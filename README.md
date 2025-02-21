@@ -19,6 +19,6 @@
 
 ### I am Yassin  👨‍💻 
 
-- Currently learning  Python🐍 , Data Analytics and  Web Scraping also working on some side Projects to enhance my Skills .
+-  I embrace the calm of an idle state to recharge and think creatively .
 
 
