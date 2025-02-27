@@ -19,6 +19,6 @@
 
 ### I'm Yassin  👨‍💻 
 
--  I embrace the calm of an idle state to recharge and think creatively .
+I embrace the calm of an idle state to recharge and think creatively .
 
 
